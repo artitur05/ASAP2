@@ -7,3 +7,5 @@ and if i would succseed
 i would start 
 a code war
 to clear out the commits
+
+also i wanna try rebase 
