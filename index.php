@@ -1,5 +1,7 @@
 index master master
-to make some conflict
 to do homework i need
+to make some conflict
+
+and if i would succseed
 
 
